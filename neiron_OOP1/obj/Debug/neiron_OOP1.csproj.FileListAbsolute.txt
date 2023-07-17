@@ -1,0 +1,59 @@
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.Properties.Resources.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csproj.GenerateResource.Cache
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\neiron_OOP1.exe
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\neiron_OOP1.pdb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.exe
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.pdb
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.CreatingNewProject.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.MainForm.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.Graf.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\ZedGraph.xml
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.createNeiron.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.neironMeth.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\bin\Debug\neiron_OOP1.exe.config
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.NewDataForm.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.Training.resources
+C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.error.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\neiron_OOP1.exe.config
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\neiron_OOP1.exe
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\neiron_OOP1.pdb
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\ZedGraph.xml
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csproj.AssemblyReference.cache
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csproj.SuggestedBindingRedirects.cache
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.createNeiron.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.error.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.Graf.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.MainForm.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.CreatingNewProject.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.neironMeth.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.NewDataForm.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.Properties.Resources.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.Training.resources
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csproj.GenerateResource.cache
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csproj.CoreCompileInputs.cache
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.csproj.CopyComplete
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.exe
+C:\Users\IED\Desktop\neiron_OOP1\neiron_OOP1\obj\Debug\neiron_OOP1.pdb

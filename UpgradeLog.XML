@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="neiron_OOP1">
+</Property><Property Name="Файл решения" Value="C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1.sln">
+</Property><Property Name="Файл параметров пользователя" Value="C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\neiron_OOP1.suo">
+</Property><Property Name="Date" Value="27 апреля 2013 г.">
+</Property><Property Name="Time" Value="12:36">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="neiron_OOP1.sln" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1.sln">
+</Event><Event ErrorLevel="0" Project="" Source="neiron_OOP1.suo" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1.suo">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\neiron_OOP1.csproj" Description="Успешно создана резервная копия файла проекта: C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\neiron_OOP1.csproj">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\formMhethodNeiro.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\formMhethodNeiro.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\formMhethodNeiro.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\formMhethodNeiro.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Graf.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Graf.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Graf.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Graf.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\MainForm.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\MainForm.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\MainForm.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\MainForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\CreatingProject.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\CreatingProject.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\CreatingProject.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\CreatingProject.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\NewDiagnostProject.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\NewDiagnostProject.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\NewDiagnostProject.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\NewDiagnostProject.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Program.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Program.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Properties\AssemblyInfo.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Properties\Resources.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Properties\Settings.Designer.cs" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Properties\Settings.settings" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\formMhethodNeiro.resx" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\formMhethodNeiro.resx">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Graf.resx" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Graf.resx">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\MainForm.resx" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\MainForm.resx">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\CreatingProject.resx" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\CreatingProject.resx">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\Properties\Resources.resx" Description="Успешно создана резервная копия файла C:\Users\Alex\Documents\Visual Studio 2008\Projects\neiron_OOP1\Backup\neiron_OOP1\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\neiron_OOP1.csproj" Description="Проект успешно преобразован">
+</Event><Event ErrorLevel="3" Project="neiron_OOP1" Source="neiron_OOP1\neiron_OOP1.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="neiron_OOP1.sln" Description="Преобразование решения успешно завершено">
+</Event><Event ErrorLevel="3" Project="" Source="neiron_OOP1.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="neiron_OOP1" Source="neiron_OOP1\neiron_OOP1.csproj" Description="Сканирование завершено: обновление для файлов проекта не требуется.">
+</Event></UpgradeLog>
